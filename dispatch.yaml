@@ -1,0 +1,5 @@
+dispatch:
+  - url: "tqec2live.org/*"
+    service: alt-tqecjs
+  - url: "www.tqec2live.org/*"
+    service: alt-tqecjs
